@@ -28,7 +28,7 @@ Please make an appointment by email.
 | -------- | -------- | -------- |
 | João Costa Seco | Monday 14h30 (Gab. P2/1-II) | joao.seco@fct.unl.pt |
 
-## Program, Schecule, and Materials
+## Program, Schedule, and Materials
 
 
 | Week | Date | Topics | Slides/Handouts | Resources |
